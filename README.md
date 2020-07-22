@@ -1,4 +1,4 @@
-# Smurf-
+# Smurf
 My SmurfViewer
 
 Smurfs met for the first time SwiftUI.
